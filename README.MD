@@ -9,25 +9,30 @@
 
 <h2>1-Initial Population</h2>
 
-<h4>1.1-Pour Créer un Individual</h4>
+<h4>-Pour Créer un Individual</h4>
 <img src="photo/img01.png">
 
-<h4>1.2-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
+<h4>-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
 <img src="photo/img02.png">
 
 <h2>2-Fitness Function</h2>
-<h4>2.1-fonction calculateIndFitness() : fonction pour calculer la valeur de fitness pour chacun des individuals</h4>
+<h4>-fonction calculateIndFitness() : fonction pour calculer la valeur de fitness pour chacun des individuals</h4>
 <img src="photo/img03.png">
 
 <h2>3-Cross-over</h2>
-<h4>3.1-fonction sortPopulation() : fonction pour ordoné listes des individuals par son valeur de fitness.</h4>
-<img src="photo/img04.png">
-<h4>3.2-fonction selection() : fonction pour selectionner les deux meilleurs chromsome par valeur de fitness.</h4>
-<img src="photo/img05.png">
-<h4>3.3-fonction crossover() : fonction pour faire etape crossover en les individuals selectionner.</h4>
+<h4>-fonction pour faire etape crossover en les individuals selectionner.</h4>
 <img src="photo/img06.png">
 
-   
+<h2>4-Mutation</h2>
+<h4>-fonction pour faire etape mutation.</h4>
+<img src="photo/img06.png">
+
+<h2>5-Selection</h2>
+<h4>- fonction pour selectionner les deux meilleurs chromsome par valeur de fitness.</h4>
+<img src="photo/img07.png">
+
+<h3>Test Algorithm</h3>
+<img src="photo/img08.png">
 
 
 
