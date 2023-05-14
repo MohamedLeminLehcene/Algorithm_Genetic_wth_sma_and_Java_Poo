@@ -6,5 +6,14 @@
 
 
 <p>Implementation avec Algorithm Genetic pour trouver un chromosome qui  contient 1 seulement.</p>
-<h4>1-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
+
+<h2>Initial Population</h2>
+
+<h4>1-Pour Créer un Individual
 <img src="photo/img01.png">
+
+<h4>2-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
+<img src="photo/img02.png">
+
+
+
