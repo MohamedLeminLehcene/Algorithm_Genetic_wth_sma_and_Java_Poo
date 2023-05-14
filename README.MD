@@ -34,4 +34,35 @@
 <img src="photo/img08.png">
 
 
+<h2>Exemple 2 : Implementation avec Algorithm Genetic pour trouver un chromosome qui  une chaine de caractére : bonjour.</h2>
+
+<h2>1-Initial Population</h2>
+
+<h4>-Pour Créer un Individual</h4>
+<img src="photo/img09.png">
+
+<h4>-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
+<img src="photo/img10.png">
+
+<h2>2-Fitness Function</h2>
+<h4>-fonction calculateIndFitness() : fonction pour calculer la valeur de fitness pour chacun des individuals</h4>
+<img src="photo/img11.png">
+
+<h2>3-Cross-over</h2>
+<h4>-fonction pour faire etape crossover en les individuals selectionner.</h4>
+<img src="photo/img12.png">
+
+<h2>4-Mutation</h2>
+<h4>-fonction pour faire etape mutation.</h4>
+<img src="photo/img13.png">
+
+<h2>5-Selection</h2>
+<h4>- fonction pour selectionner les deux meilleurs chromsome par valeur de fitness.</h4>
+<img src="photo/img14.png">
+
+<h3>Test Algorithm</h3>
+<img src="photo/img15.png">
+
+
+
 
