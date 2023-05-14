@@ -8,9 +8,4 @@
 <p>Implementation avec Algorithm Genetic pour trouver un chromosome qui  contient 1 seulement.</p>
 1-fonction initializePopulation() : pour intilialiser liste des individuels
 
-public void initializePopulation(){
-for(int i=0; i<20;i++)
-{
-individuals.add(new Individual());
-}
-}
+<img src="photo/img01.png">
