@@ -9,7 +9,7 @@
 
 <h2>Initial Population</h2>
 
-<h4>1-Pour Créer un Individual
+<h4>1-Pour Créer un Individual</h4>
 <img src="photo/img01.png">
 
 <h4>2-fonction initializePopulation() : pour intilialiser liste des individuels</h4>
