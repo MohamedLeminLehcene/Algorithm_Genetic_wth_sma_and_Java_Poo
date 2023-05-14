@@ -25,11 +25,11 @@
 
 <h2>4-Mutation</h2>
 <h4>-fonction pour faire etape mutation.</h4>
-<img src="photo/img06.png">
+<img src="photo/img07.png">
 
 <h2>5-Selection</h2>
 <h4>- fonction pour selectionner les deux meilleurs chromsome par valeur de fitness.</h4>
-<img src="photo/img07.png">
+<img src="photo/img05.png">
 
 <h3>Test Algorithm</h3>
 <img src="photo/img08.png">
