@@ -4,8 +4,7 @@
 <h3>Les etapes Algorithms Genetic en plus details avec Exelmple pratique dans cet images</h3>
 <img src="photo/detail.png">
 
-
-<p>Implementation avec Algorithm Genetic pour trouver un chromosome qui  contient 1 seulement.</p>
+<h2>Exemple 1 : Implementation avec Algorithm Genetic pour trouver un chromosome qui  contient 1 seulement.</h2>
 
 <h2>1-Initial Population</h2>
 
